@@ -1,1 +1,14 @@
+Definir qué problema va a resolver el sistema.
+El sistema esta pensado para administrar los pacientes de una clinica dental, ademas de los gastos del material por paciente y el cobro de servicios.
 
+Identificar usuarios.
+Dueños de clinicas dentales que deseen tener un control de sus pacientes, inventario, ganancias y gastos.
+
+Identificar qué información necesita manejar la clínica.
+  El inventario de los suministros, los clientes
+  
+Definir las funciones principales.
+  Agregar nuevos pacientes
+  Crear historial de pacientes 
+  Tener un control de insumos por procedimiento en cada pacinete
+  
